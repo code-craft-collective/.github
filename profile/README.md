@@ -1,12 +1,21 @@
-## Hi there 👋
+Spectrum Airlines Booking System
 
-<!--
+Spectrum Airlines Booking System is a web application designed to help users easily find and book flights based on their preferences and travel needs. This system provides a user-friendly interface for searching flights, comparing options, and making bookings.
 
-**Here are some ideas to get you started:**
+Features
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+User Authentication: Users can sign up for an account and log in securely to access the booking system.
+Flight Search: Effortlessly discover tailored flights based on destination, departure time, and other criteria.
+Flight Comparison: Compare flights based on ratings, passenger reviews, amenities, and more.
+Booking Process: Easily select and book flights with a seamless booking process.
+User Profile: Users have access to their profile where they can view their booking history and manage account settings.
+Technologies Used
+
+Frontend: React.js, Material-UI
+Backend: Node.js, Express.js
+Database: MongoDB
+Authentication: JSON Web Tokens (JWT)
+Other Libraries: Axios (for API requests), bcryptjs (for password hashing), mongoose (for MongoDB object modeling)
+Purpose
+
+Spectrum Airlines Booking System streamlines the flight booking process, making it convenient for users to find and book business class flights for their travel needs. Whether users are planning a vacation, business trip, or any other journey, this application simplifies the search and booking process for business class, providing a hassle-free experience.
